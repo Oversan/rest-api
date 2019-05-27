@@ -1,0 +1,19 @@
+{
+  "comments": [
+    {
+      "id": 141,
+      "username": "User 1",
+      "message": "This is first message"
+    },
+    {
+      "id": 352,
+      "username": "User 2",
+      "message": "This is second message"
+    },
+    {
+      "id": 523,
+      "username": "User 3",
+      "message": "This is third message"
+    }
+  ]
+}
